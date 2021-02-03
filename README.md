@@ -6,6 +6,8 @@ Submitted by: Yordanos Solomon
 
 Time spent: .75 hours spent in total
 
+![](https://imgur.com/a/OKHUAE1.gif)
+
 ## User Stories
 
 The following **required** functionality is complete:
