@@ -7,6 +7,7 @@ Submitted by: Yordanos Solomon
 Time spent: .75 hours spent in total
 
 ![TipCalculator](https://imgur.com/a/OKHUAE1.gif)
+![TipCalculator](https://imgur.com/x1mNiBQ.gif)
 
 ## User Stories
 
