@@ -6,9 +6,6 @@ Submitted by: Yordanos Solomon
 
 Time spent: .75 hours spent in total
 
-![TipCalculator](https://imgur.com/a/OKHUAE1.gif)
-![TipCalculator](https://imgur.com/x1mNiBQ.gif)
-
 ## User Stories
 
 The following **required** functionality is complete:
@@ -22,6 +19,8 @@ The following **optional** features are implemented:
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+![TipCalculator](https://imgur.com/x1mNiBQ.gif)
 
 The following **additional** features are implemented:
 
